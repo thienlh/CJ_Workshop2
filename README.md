@@ -1,8 +1,6 @@
-		# CORE JAVA - WORKSHOP 2
+#CORE JAVA - WORKSHOP 2
 
-		   *	   *	  *	
-	
-You are requested to submit a RAR (or ZIP) file containing your Java Project source codein which bat fileswhich allows running programs easily were created.
+You are requested to submit a RAR (or ZIP) file containing your Java Project source code in which bat fileswhich allows running programs easily were created.
 
 1- Write a Java program that will
 
@@ -14,7 +12,7 @@ You are requested to submit a RAR (or ZIP) file containing your Java Project sou
 
 2- Write a Java program that will
 
-- Accept two number. Use try… catch blocks to catch exceptions when accepting these number because user can enter invalid data.
+- Accept two number. Use try catch blocks to catch exceptions when accepting these number because user can enter invalid data.
 
 - Accept the operator ( +, - , *, / )
 
@@ -29,8 +27,3 @@ You are requested to submit a RAR (or ZIP) file containing your Java Project sou
 - Print out the maximum values in this matrix.
 
 - Print out the sum of this matrix.
-
-
-
-
-
